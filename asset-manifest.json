@@ -1,0 +1,14 @@
+{
+  "main.css": "/bob-app/static/css/main.774c3393.chunk.css",
+  "main.js": "/bob-app/static/js/main.15f0c314.chunk.js",
+  "main.js.map": "/bob-app/static/js/main.15f0c314.chunk.js.map",
+  "static/js/1.d22e9527.chunk.js": "/bob-app/static/js/1.d22e9527.chunk.js",
+  "static/js/1.d22e9527.chunk.js.map": "/bob-app/static/js/1.d22e9527.chunk.js.map",
+  "runtime~main.js": "/bob-app/static/js/runtime~main.2b532288.js",
+  "runtime~main.js.map": "/bob-app/static/js/runtime~main.2b532288.js.map",
+  "static/media/logo.svg": "/bob-app/static/media/logo.5d5d9eef.svg",
+  "static/css/main.774c3393.chunk.css.map": "/bob-app/static/css/main.774c3393.chunk.css.map",
+  "index.html": "/bob-app/index.html",
+  "precache-manifest.2b71f8eb0d339c45c197fcc0b1244c7b.js": "/bob-app/precache-manifest.2b71f8eb0d339c45c197fcc0b1244c7b.js",
+  "service-worker.js": "/bob-app/service-worker.js"
+}
