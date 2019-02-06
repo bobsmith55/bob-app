@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import { Route, Link } from 'react-router-dom'
+import Bob from './components/Bob';
+import About from './components/About';
 import logo from './logo.svg';
 import './App.css';
 
@@ -20,6 +23,11 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <Link to='/'>Home</Link>
+        <Link to='/about'>About</Link>
+        <Link to='/bob'>Bob</Link>
+        <Route path='/about/' component={About} />
+        <Route path='/bob/' component={Bob} />
       </div>
     );
   }
