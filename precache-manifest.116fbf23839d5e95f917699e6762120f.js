@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/bob-app/static/js/runtime~main.2b532288.js"
   },
   {
-    "revision": "15f0c314891f0672873d",
-    "url": "/bob-app/static/js/main.15f0c314.chunk.js"
+    "revision": "2e753594f78f2a2e8fb6",
+    "url": "/bob-app/static/js/main.2e753594.chunk.js"
   },
   {
     "revision": "d22e95278b186df6c2a5",
     "url": "/bob-app/static/js/1.d22e9527.chunk.js"
   },
   {
-    "revision": "15f0c314891f0672873d",
+    "revision": "2e753594f78f2a2e8fb6",
     "url": "/bob-app/static/css/main.774c3393.chunk.css"
   },
   {
-    "revision": "09b8c25f978368dd0fa9de796601a4a8",
+    "revision": "7622afab1b1c0219d8df0954243b1502",
     "url": "/bob-app/index.html"
   }
 ];
